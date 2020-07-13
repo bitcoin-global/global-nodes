@@ -5,4 +5,4 @@ Instance name | Public IP address | Status
 `test--asia-east2-a-global-node` | 35.215.177.220 | RUNNING
 
 
-Last update: `10/07/2020 15:32:04`
+Last update: `13/07/2020 15:21:16`
