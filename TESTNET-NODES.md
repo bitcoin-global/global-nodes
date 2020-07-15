@@ -1,8 +1,8 @@
 Instance name | Public IP address | Status
 --- | --- | ---
-`test--us-central1-a-global-node` | 35.208.71.227 | RUNNING
-`test--europe-west1-b-global-node` | 35.210.185.112 | RUNNING
-`test--asia-east2-a-global-node` | 35.215.177.220 | RUNNING
+`test--us-central1-a-global-node` | 35.208.105.132 | RUNNING
+`test--europe-west1-b-global-node` | 35.206.179.60 | RUNNING
+`test--asia-east2-a-global-node` | 35.215.138.105 | RUNNING
 
 
-Last update: `13/07/2020 15:21:16`
+Last update: `15/07/2020 12:10:14`
