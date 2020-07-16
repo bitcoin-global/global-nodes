@@ -1,8 +1,13 @@
 Instance name | Public IP | ElectrumX | Explorer | Status
 --- | --- | --- | --- | ---
-`test--us-central1-a-global-node` | [35.208.105.132](35.208.105.132) | [http://electrumx.us.net.bitcoin-global.io:50001](http://electrumx.us.net.bitcoin-global.io:50001) | [http://explorer.us.net.bitcoin-global.io](http://explorer.us.net.bitcoin-global.io) | RUNNING
-`test--europe-west1-b-global-node` | [35.206.179.60](35.206.179.60) | [http://electrumx.europe.net.bitcoin-global.io:50001](http://electrumx.europe.net.bitcoin-global.io:50001) | [http://explorer.europe.net.bitcoin-global.io](http://explorer.europe.net.bitcoin-global.io) | RUNNING
-`test--asia-east2-a-global-node` | [35.215.138.105](35.215.138.105) | [http://electrumx.asia.net.bitcoin-global.io:50001](http://electrumx.asia.net.bitcoin-global.io:50001) | [http://explorer.asia.net.bitcoin-global.io](http://explorer.asia.net.bitcoin-global.io) | RUNNING
+`test--us-central1-a-global-node` | [35.208.105.132](35.208.105.132) | [http://electrumx.us.testnet.bitcoin-global.io:50001](http://electrumx.us.testnet.bitcoin-global.io:50001) | [http://explorer.us.testnet.bitcoin-global.io](http://explorer.us.testnet.bitcoin-global.io) | RUNNING
+`test--europe-west1-b-global-node` | [35.206.179.60](35.206.179.60) | [http://electrumx.europe.testnet.bitcoin-global.io:50001](http://electrumx.europe.testnet.bitcoin-global.io:50001) | [http://explorer.europe.testnet.bitcoin-global.io](http://explorer.europe.testnet.bitcoin-global.io) | RUNNING
+`test--asia-east2-a-global-node` | [35.215.138.105](35.215.138.105) | [http://electrumx.asia.testnet.bitcoin-global.io:50001](http://electrumx.asia.testnet.bitcoin-global.io:50001) | [http://explorer.asia.testnet.bitcoin-global.io](http://explorer.asia.testnet.bitcoin-global.io) | RUNNING
+
+Main servers:
+
+* **ElectrumX** (in Europe) - [http://electrumx.testnet.bitcoin-global.io:50001](http://electrumx.testnet.bitcoin-global.io:50001)
+* **Explorer** (in Europe) - [http://testnet.bitcoin-global.io](http://testnet.bitcoin-global.io)
 
 
-Last update: `16/07/2020 18:06:41`
+Last update: `16/07/2020 19:47:35`
