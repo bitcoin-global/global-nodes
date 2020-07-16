@@ -36,3 +36,4 @@ operation | timestamp
 `electrum-test` | `16/07/2020 15:54:01`
 `deploy-test` | `16/07/2020 15:59:21`
 `deploy-test` | `16/07/2020 16:10:40`
+`electrum-test` | `16/07/2020 17:53:45`
