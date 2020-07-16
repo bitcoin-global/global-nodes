@@ -27,3 +27,4 @@ operation | timestamp
 `deploy-main` | `15/07/2020 13:59:53`
 `deploy-test` | `15/07/2020 18:56:59`
 `deploy-main` | `15/07/2020 19:09:02`
+`electrum-test` | `16/07/2020 14:53:43`
