@@ -5,4 +5,4 @@ Instance name | Public IP | ElectrumX | Explorer | Status
 `test--asia-east2-a-global-node` | [35.215.138.105](35.215.138.105) | [http://electrumx.asia.net.bitcoin-global.io:50001](http://electrumx.asia.net.bitcoin-global.io:50001) | [http://explorer.asia.net.bitcoin-global.io](http://explorer.asia.net.bitcoin-global.io) | RUNNING
 
 
-Last update: `16/07/2020 16:17:06`
+Last update: `16/07/2020 18:06:41`
