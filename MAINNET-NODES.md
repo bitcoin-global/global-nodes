@@ -11,4 +11,4 @@ Main servers:
 * **Explorer** (in Europe) - [http://mainnet.bitcoin-global.io](http://mainnet.bitcoin-global.io)
 
 
-Last update: `16/07/2020 20:02:06`
+Last update: `16/07/2020 20:56:32`
