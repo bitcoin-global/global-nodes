@@ -10,4 +10,4 @@ Main servers:
 * **Explorer** (in Europe) - [http://testnet.bitcoin-global.io](http://testnet.bitcoin-global.io)
 
 
-Last update: `17/07/2020 14:27:51`
+Last update: `17/07/2020 20:58:17`
