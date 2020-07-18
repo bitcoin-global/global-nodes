@@ -11,4 +11,4 @@ Main servers:
 `Note` - All ElectrumX servers exposed publicly on SSL ports on `{50001, 50002, 51001, 51002}
 
 
-Last update: `18/07/2020 20:50:57`
+Last update: `18/07/2020 22:30:02`
