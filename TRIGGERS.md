@@ -48,3 +48,4 @@ operation | timestamp
 `update-test` | `17/07/2020 20:24:01`
 `deploy-nodes-test` | `18/07/2020 17:07:00`
 `update-nodes-test` | `18/07/2020 17:19:55`
+`configure-electrum-test` | `18/07/2020 17:34:20`
