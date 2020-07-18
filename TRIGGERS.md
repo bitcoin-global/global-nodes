@@ -54,3 +54,4 @@ operation | timestamp
 `update-nodes-test` | `18/07/2020 20:38:49`
 `configure-electrum-test` | `18/07/2020 20:47:31`
 `configure-explorer-test` | `18/07/2020 20:56:38`
+`configure-explorer-test` | `18/07/2020 22:25:41`
