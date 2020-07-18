@@ -46,3 +46,4 @@ operation | timestamp
 `shared-test` | `17/07/2020 14:09:10`
 `shared-main` | `17/07/2020 16:08:18`
 `update-test` | `17/07/2020 20:24:01`
+`deploy-nodes-test` | `18/07/2020 17:07:00`
