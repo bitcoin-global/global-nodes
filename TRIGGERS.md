@@ -64,3 +64,4 @@ operation | timestamp
 `update-nodes-test` | `19/07/2020 16:17:05`
 `configure-electrum-main` | `19/07/2020 17:49:20`
 `update-nodes-test` | `20/07/2020 10:12:37`
+`configure-miners-test` | `21/07/2020 09:06:41`
