@@ -71,3 +71,4 @@ operation | timestamp
 `configure-explorer-test` | `21/07/2020 14:49:40`
 `update-nodes-test` | `21/07/2020 14:51:53`
 `deploy-nodes-test` | `21/07/2020 15:15:11`
+`update-nodes-test` | `21/07/2020 15:24:46`
