@@ -73,3 +73,4 @@ operation | timestamp
 `deploy-nodes-test` | `21/07/2020 15:15:11`
 `update-nodes-test` | `21/07/2020 15:24:46`
 `update-nodes-test` | `21/07/2020 15:34:34`
+`deploy-nodes-main` | `21/07/2020 15:34:55`
