@@ -6,10 +6,10 @@ Instance name | Public IP | ElectrumX | Explorer | Mining pool | Status
 
 Main servers (in Europe):
 
-* **ElectrumX** - [electrumx.testnet.bitcoin-global.io](electrumx.testnet.bitcoin-global.io)
-* **Explorer** - [testnet.bitcoin-global.io](testnet.bitcoin-global.io)
-* **Mining pool** - [pool.testnet.bitcoin-global.io:19223](pool.testnet.bitcoin-global.io:19223)
+* **ElectrumX** - [electrumx.testnet.bitcoin-global.io](http://electrumx.testnet.bitcoin-global.io)
+* **Explorer** - [testnet.bitcoin-global.io](https://testnet.bitcoin-global.io)
+* **Mining pool** - [pool.testnet.bitcoin-global.io:19223](http://pool.testnet.bitcoin-global.io:19223)
 `Note` - All ElectrumX servers exposed publicly on SSL ports on `{50001, 50002, 51001, 51002}
 
 
-Last update: `21/07/2020 09:17:25`
+Last update: `21/07/2020 09:30:00`
