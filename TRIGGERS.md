@@ -84,3 +84,4 @@ operation | timestamp
 `configure-explorer-main` | `22/07/2020 08:56:36`
 `configure-miners-test` | `22/07/2020 10:03:14`
 `configure-electrum-test` | `22/07/2020 10:19:06`
+`configure-explorer-test` | `22/07/2020 10:24:15`
