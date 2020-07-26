@@ -96,3 +96,4 @@ operation | timestamp
 `deploy-nodes-main` | `26/07/2020 16:00:51`
 `update-nodes-test` | `26/07/2020 16:40:23`
 `configure-miners-test` | `26/07/2020 16:59:24`
+`configure-explorer-test` | `26/07/2020 17:06:51`
