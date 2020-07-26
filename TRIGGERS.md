@@ -98,3 +98,4 @@ operation | timestamp
 `configure-miners-test` | `26/07/2020 16:59:24`
 `configure-explorer-test` | `26/07/2020 17:06:51`
 `configure-explorer-test` | `26/07/2020 17:11:25`
+`configure-explorer-test` | `26/07/2020 17:18:46`
