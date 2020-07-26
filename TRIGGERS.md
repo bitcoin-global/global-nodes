@@ -93,3 +93,4 @@ operation | timestamp
 `configure-explorer-main` | `23/07/2020 18:08:14`
 `configure-miners-main` | `26/07/2020 12:19:32`
 `deploy-nodes-main` | `26/07/2020 15:37:01`
+`deploy-nodes-main` | `26/07/2020 16:00:51`
