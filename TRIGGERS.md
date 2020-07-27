@@ -99,3 +99,4 @@ operation | timestamp
 `configure-explorer-test` | `26/07/2020 17:06:51`
 `configure-explorer-test` | `26/07/2020 17:11:25`
 `configure-explorer-test` | `26/07/2020 17:18:46`
+`deploy-latest-test` | `27/07/2020 11:14:14`
