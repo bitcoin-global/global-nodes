@@ -102,3 +102,4 @@ operation | timestamp
 `deploy-latest-test` | `27/07/2020 11:14:14`
 `deploy-bootstrap-main` | `27/07/2020 11:19:23`
 `miner-main` | `27/07/2020 12:09:03`
+`miner-main` | `28/07/2020 10:03:54`
