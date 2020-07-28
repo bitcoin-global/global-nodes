@@ -106,3 +106,4 @@ operation | timestamp
 `explorer-test` | `28/07/2020 10:18:56`
 `miner-main` | `28/07/2020 10:38:23`
 `explorer-main` | `28/07/2020 10:49:40`
+`miner-test` | `28/07/2020 11:01:53`
