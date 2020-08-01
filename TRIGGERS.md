@@ -109,3 +109,4 @@ operation | timestamp
 `miner-test` | `28/07/2020 11:01:53`
 `deploy-bootstrap-main` | `28/07/2020 11:11:44`
 `deploy-latest-test` | `28/07/2020 12:45:00`
+`deploy-bootstrap-main` | `01/08/2020 12:25:57`
