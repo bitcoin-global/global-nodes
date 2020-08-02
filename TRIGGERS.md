@@ -111,3 +111,4 @@ operation | timestamp
 `deploy-latest-test` | `28/07/2020 12:45:00`
 `deploy-bootstrap-main` | `01/08/2020 12:25:57`
 `explorer-main` | `02/08/2020 16:56:51`
+`explorer-test` | `02/08/2020 17:20:50`
