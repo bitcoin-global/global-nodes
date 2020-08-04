@@ -3,13 +3,13 @@
 
 Node | Progress
 --- | ---
-`asia-east2-a` | 98.690%
-`australia-southeast1-b` | 98.690%
-`europe-west1-b` | 83.907%
-`us-central1-a` | 93.576%
+`asia-east2-a` | 98.688%
+`australia-southeast1-b` | 98.688%
+`europe-west1-b` | 84.103%
+`us-central1-a` | 93.668%
 
 
 **Note** - Progress value of *0%* means RPC is not fully loaded or node is being reinitialized. This will likely change to real value in couple of hours.
 
 
-Last update: `04/08/2020 18:57:10`
+Last update: `04/08/2020 19:57:56`
