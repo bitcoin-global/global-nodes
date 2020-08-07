@@ -14,4 +14,4 @@ Main servers (in Europe):
 
 `Note` - All **ElectrumX** servers exposed publicly on SSL ports on `{50001, 50002, 51001, 51002}`
 
-Last update: `05/08/2020 19:36:18`
+Last update: `07/08/2020 11:00:07`
