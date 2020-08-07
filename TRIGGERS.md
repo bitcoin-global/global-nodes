@@ -115,3 +115,4 @@ operation | timestamp
 `deploy-bootstrap-main` | `03/08/2020 15:19:23`
 `deploy-bootstrap-main` | `03/08/2020 15:34:13`
 `restart-nodes-main` | `05/08/2020 19:31:38`
+`deploy-bootstrap-main` | `07/08/2020 09:00:39`
