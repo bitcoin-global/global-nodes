@@ -118,3 +118,4 @@ operation | timestamp
 `deploy-bootstrap-main` | `07/08/2020 09:00:39`
 `deploy-bootstrap-main` | `07/08/2020 10:41:06`
 `explorer-main` | `08/08/2020 08:06:40`
+`miner-main` | `08/08/2020 08:27:58`
