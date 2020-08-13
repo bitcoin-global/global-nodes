@@ -123,3 +123,4 @@ operation | timestamp
 `deploy-latest-test` | `13/08/2020 11:17:45`
 `explorer-main` | `13/08/2020 11:24:30`
 `explorer-test` | `13/08/2020 11:48:56`
+`miner-main` | `13/08/2020 12:06:16`
