@@ -126,3 +126,4 @@ operation | timestamp
 `miner-main` | `13/08/2020 12:06:16`
 `miner-test` | `13/08/2020 12:12:57`
 `electrum-main` | `13/08/2020 12:20:57`
+`electrum-test` | `13/08/2020 12:24:06`
