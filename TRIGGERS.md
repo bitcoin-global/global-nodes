@@ -120,3 +120,4 @@ operation | timestamp
 `explorer-main` | `08/08/2020 08:06:40`
 `miner-main` | `08/08/2020 08:27:58`
 `deploy-bootstrap-main` | `08/08/2020 08:42:02`
+`deploy-latest-test` | `13/08/2020 11:17:45`
