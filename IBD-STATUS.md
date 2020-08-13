@@ -3,15 +3,15 @@
 
 Node | Block
 --- | ---
-`asia-east2-a` | 0
-`australia-southeast1-b` | 638591
-`europe-west1-b` | 0
-`us-central1-a` | 638591
+`asia` | 0
+`australia` | 0
+`europe` | 0
+`us` | 0
 
 
 **Note**
-* Block **0** mean RPC is not fully loaded or node is being reinitialized. This will likely change to real value in couple of hours.
+* Block **0** mean RPC is not working. Check server status.
 * Block **638591** means node is fully synchronized.
 
 
-Last update: `13/08/2020 09:03:40`
+Last update: `13/08/2020 11:39:36`
