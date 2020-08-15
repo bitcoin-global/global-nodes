@@ -5,7 +5,7 @@ Instance name | Public IP | ElectrumX | Explorer | Mining pool
 `main--asia` | [139.99.131.156](139.99.131.156) | [electrumx.asia.mainnet.bitcoin-global.io](electrumx.asia.mainnet.bitcoin-global.io) | [explorer.asia.mainnet.bitcoin-global.io](https://explorer.asia.mainnet.bitcoin-global.io) | [pool.asia.mainnet.bitcoin-global.io:9223](http://pool.asia.mainnet.bitcoin-global.io:9223)
 `main--australia` | [139.99.131.156](139.99.131.156) | [electrumx.australia.mainnet.bitcoin-global.io](electrumx.australia.mainnet.bitcoin-global.io) | [explorer.australia.mainnet.bitcoin-global.io](https://explorer.australia.mainnet.bitcoin-global.io) | [pool.australia.mainnet.bitcoin-global.io:9223](http://pool.australia.mainnet.bitcoin-global.io:9223)
 `main--europe` | [62.210.178.209](62.210.178.209) | [electrumx.europe.mainnet.bitcoin-global.io](electrumx.europe.mainnet.bitcoin-global.io) | [explorer.europe.mainnet.bitcoin-global.io](https://explorer.europe.mainnet.bitcoin-global.io) | [pool.europe.mainnet.bitcoin-global.io:9223](http://pool.europe.mainnet.bitcoin-global.io:9223)
-`main--us` | [35.209.184.27](35.209.184.27) | [electrumx.us.mainnet.bitcoin-global.io](electrumx.us.mainnet.bitcoin-global.io) | [explorer.us.mainnet.bitcoin-global.io](https://explorer.us.mainnet.bitcoin-global.io) | [pool.us.mainnet.bitcoin-global.io:9223](http://pool.us.mainnet.bitcoin-global.io:9223)
+`main--us` | [173.0.57.186](173.0.57.186) | [electrumx.us.mainnet.bitcoin-global.io](electrumx.us.mainnet.bitcoin-global.io) | [explorer.us.mainnet.bitcoin-global.io](https://explorer.us.mainnet.bitcoin-global.io) | [pool.us.mainnet.bitcoin-global.io:9223](http://pool.us.mainnet.bitcoin-global.io:9223)
 
 Main servers (in Europe):
 * **ElectrumX** - [electrumx.mainnet.bitcoin-global.io](http://electrumx.mainnet.bitcoin-global.io)
@@ -35,5 +35,5 @@ Main servers (in Europe):
 ---
 
 
-** Updated on: `13/08/2020 14:30`
+** Updated on: `14/08/2020 21:56`
 
