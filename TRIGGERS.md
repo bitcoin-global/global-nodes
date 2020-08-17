@@ -130,3 +130,4 @@ operation | timestamp
 `restart-nodes-main` | `13/08/2020 12:27:57`
 `deploy-latest-main` | `17/08/2020 18:00:16`
 `miner-main` | `17/08/2020 20:06:41`
+`restart-nodes-main` | `17/08/2020 21:25:44`
