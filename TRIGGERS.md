@@ -128,3 +128,4 @@ operation | timestamp
 `electrum-main` | `13/08/2020 12:20:57`
 `electrum-test` | `13/08/2020 12:24:06`
 `restart-nodes-main` | `13/08/2020 12:27:57`
+`deploy-latest-main` | `17/08/2020 18:00:16`
