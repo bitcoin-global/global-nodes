@@ -14,4 +14,4 @@ Node | Block
 * Block **638591** means node is fully synchronized.
 
 
-Last update: `16/08/2020 09:00:33`
+Last update: `17/08/2020 09:01:10`
