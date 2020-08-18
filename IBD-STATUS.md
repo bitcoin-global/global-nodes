@@ -3,10 +3,10 @@
 
 Node | Block
 --- | ---
-`asia` | 638591
-`australia` | 638591
-`europe` | 638591
-`us` | 638591
+`asia` | 638795
+`australia` | 638795
+`europe` | 638795
+`us` | 638796
 
 
 **Note**
@@ -14,4 +14,4 @@ Node | Block
 * Block **638591** means node is fully synchronized.
 
 
-Last update: `17/08/2020 09:01:10`
+Last update: `18/08/2020 09:01:24`
