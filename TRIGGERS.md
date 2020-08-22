@@ -133,3 +133,4 @@ operation | timestamp
 `restart-nodes-main` | `17/08/2020 21:25:44`
 `miner-main` | `17/08/2020 21:45:41`
 `electrum-main` | `20/08/2020 20:17:06`
+`explorer-main` | `22/08/2020 18:13:52`
