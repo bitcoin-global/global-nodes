@@ -16,6 +16,7 @@ Main servers (in Europe):
 `Note` - All **ElectrumX** servers exposed publicly on SSL ports on `{50001, 50002, 51001, 51002}`
 
 ---
+
 # Environment testnet
 
 Instance name | Public IP | ElectrumX | Explorer | Mining pool
@@ -35,5 +36,4 @@ Main servers (in Europe):
 ---
 
 
-** Updated on: `14/08/2020 21:56`
-
+* Last update: `26/08/2020 12:17:36`
