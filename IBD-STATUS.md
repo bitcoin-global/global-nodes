@@ -3,7 +3,7 @@
 
 Node | Block
 --- | ---
-`europe` | 647951
+`europe` | 648091
 
 
 **Note**
@@ -11,4 +11,4 @@ Node | Block
 * Block **638591** means node is fully synchronized.
 
 
-Last update: `22/10/2020 09:42:08`
+Last update: `23/10/2020 09:43:22`
